@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Tudor 
+  # <p align="center"> 👋  Hi, I’m Tudor  </p>
 - 👀 I’m interested to learn manual and automation testing tools
-- 🌱 I’m currently learning how to use tools: postman, visualstudio, sourcetree, frameworks: playwright, nodejs, jest.
+- 🌱 I’m currently learning how to use tools: postman, visualstudio, sourcetree, frameworks: playwright, nodejs, jest. 
+- some of my learning projects are available on: [repositories](https://github.com/Tudor7777?tab=repositories)
 
 
 <!---
