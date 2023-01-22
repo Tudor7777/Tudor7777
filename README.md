@@ -16,7 +16,7 @@
     <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
       <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/sourcetree-1.svg" alt="sourcetree" width="40" height="40"/> </a> 
      <a href="https://www.apachefriends.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20180617/bea/kisspng-xampp-apache-http-server-web-server-computer-serve-arroba-5b2690a91d4905.10335897152925405712.jpg" alt="XAMPP" width="40" height="40"/> </a> 
-    <a href="https://www.apachefriends.org/" target="_blank"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="XAMPP" width="40" height="40"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="XAMPP" width="40" height="40"/> </a>
   </p>
 
 
