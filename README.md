@@ -19,7 +19,9 @@
      <a href="https://www.apachefriends.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20180617/bea/kisspng-xampp-apache-http-server-web-server-computer-serve-arroba-5b2690a91d4905.10335897152925405712.jpg" alt="XAMPP" width="40" height="30"/> </a> 
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="XAMPP" width="50" height="30"/> </a>
     <a href="https://robotframework.org/" target="_blank"> <img src="https://arctouch.com/wp-content/uploads/2021/02/robot-framework-test-automation-blog.png" alt="robotframework" width="50" height="30"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="Python" width="30" height="30"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="Python" width="30" height="30"/> </a>
+    <a href="https://www.selenium.dev/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium" width="30" height="30"/> </a>
+    
   </p>
 
 
